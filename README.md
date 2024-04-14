@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @determinedMinsky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello, I'm DeterminedMinsky
 
-<!---
-determinedMinsky/determinedMinsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I am working at DVA (Data Variation Authority). My mission is to create high-quality software and ensuring data life-cycle across various dimensions.
+
+## Skills
+
+- Programming languages: Python, Go, C++
+- Web development: React
+
+## Experience
+- DVA
+
+## Education
+- DVA
