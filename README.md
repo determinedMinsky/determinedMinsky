@@ -1,5 +1,3 @@
-![logo](README.assets/ascii-art.png)
-
 # Hello, I'm DeterminedMinsky
 
 ## About Me
